@@ -1,2 +1,14 @@
 skills/
 node_modules/
+.next/
+*.log
+db/*.db
+db/*.db-journal
+db/*.db-wal
+db/*.db-shm
+.env
+.zscripts/
+upload/
+download/
+agent-ctx/
+.DS_Store
